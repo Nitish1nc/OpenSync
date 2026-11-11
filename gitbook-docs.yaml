@@ -82,3 +82,16 @@ site:
           draft: true
           content:
             directory: ./core-draft
+    - type: section
+      key: section-7
+      title: Research Topic
+      path: research-topic
+      children:
+        - type: space
+          key: space-7
+          title: Documentation
+          path: documentation
+          default: true
+          draft: true
+          content:
+            directory: ./documentation
