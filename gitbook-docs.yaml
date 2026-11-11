@@ -72,6 +72,7 @@ site:
       key: section-6
       title: Core Draft
       path: core-draft
+      description: Let me work dude
       children:
         - type: space
           key: space-6
